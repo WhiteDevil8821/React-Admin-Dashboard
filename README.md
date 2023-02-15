@@ -1,4 +1,4 @@
-**[React Admin Dashboard]**(https://react-admin-dashboard-6z09.onrender.com)
+[React Admin Dashboard](https://react-admin-dashboard-6z09.onrender.com)
 
 Made a full functional admin dashboard using ReactJS.
 
